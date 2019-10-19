@@ -1,11 +1,9 @@
-using System;
-
 namespace Salon.Models
 {
-    public class ErrorViewModel
+    public class Stylist
     {
-        public string RequestId { get; set; }
-
-        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+       
     }
+
+
 }
